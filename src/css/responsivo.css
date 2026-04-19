@@ -1,0 +1,20 @@
+@media(max-width:600px){
+    body{
+        width: 343px;
+        height: 314px;
+        padding: 39px 20px;
+    }
+
+    .advice_counter{
+        font-size: 10px;
+    }
+
+    .advice_text{
+        font-size: 24px;
+    }
+
+    .division_symbol{
+        margin-top: 25px;
+        
+    }
+}
